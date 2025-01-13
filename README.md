@@ -17,12 +17,6 @@ I'm a developer specializing in **C++**, **Cybersecurity**, and **Kernel Develop
 - **Kernel Development:** 
   - Windows Kernel
 
-## Projects
-### Cybersecurity
-- **[Inline Syscall](https://github.com/xxFURYWOLFxx/inline_syscall):** Direct kernel API calls.
-
-### C++ Development
-- **[DX11 Capture Screen](https://github.com/xxFURYWOLFxx/DX11-Capture-screen):** Screen capture using DX11 for better performance.
 
 ## Stats
 <div align="center">
