@@ -1,6 +1,6 @@
 # Hi, I'm xxFURYWOLFxx 👋
 
-![Profile Banner](https://files.catbox.moe/s2ox4o.jfif)
+![Profile Banner](https://ibb.co/bP1xpdH)
 
 ## About Me
 I'm a developer specializing in **C++**, **Cybersecurity**, and **Kernel Development**. I love low-level programming and system internals.
