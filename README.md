@@ -33,7 +33,7 @@ I'm a developer specializing in **C++**, **Cybersecurity**, and **Kernel Develop
 ---
 
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h3>Contact with me:</h3>
   <a href="https://github.com/xxFURYWOLFxx"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.youtube.com/@FURYWOLF"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://www.facebook.com/abdulla.ranya.666"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
