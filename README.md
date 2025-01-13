@@ -1,6 +1,6 @@
 # Hi, I'm xxFURYWOLFxx 👋
 
-![Profile Banner](https://ibb.co/bP1xpdH)
+![FURYWOLF](https://github.com/user-attachments/assets/f85deb16-0391-47b7-9d42-4c9b71bbada7)
 
 ## About Me
 I'm a developer specializing in **C++**, **Cybersecurity**, and **Kernel Development**. I love low-level programming and system internals.
