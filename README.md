@@ -19,7 +19,7 @@ Here are some of my notable projects:
 - 
 
 ### C++ Development
-- **[inline syscall](https://github.com/xxFURYWOLFxx/DX11-Capture-screen):** Using DX11 to capture the screen using our GPU for a better performance.
+- **[DX11 Capture screen](https://github.com/xxFURYWOLFxx/DX11-Capture-screen):** Using DX11 to capture the screen using our GPU for a better performance.
 - soon...
 
 
