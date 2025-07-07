@@ -3,19 +3,13 @@
 <img src="https://github.com/user-attachments/assets/f85deb16-0391-47b7-9d42-4c9b71bbada7" alt="FURYWOLF" width="256" height="256" />
 
 ## About Me
-I'm a developer specializing in **C++**, **Cybersecurity**, and **Kernel Development**. I love low-level programming and system internals.
+I like C/C++.
 
 ## Interests
 - **Languages:** 
   - ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
   - ![Assembly](https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assembly&logoColor=white)
   - ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-- **Cybersecurity:** 
-  - Pen Testing
-  - Security Audits
-  - Vulnerability Assessments
-- **Kernel Development:** 
-  - Windows Kernel
 
 
 ## Stats
